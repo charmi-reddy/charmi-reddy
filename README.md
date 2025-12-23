@@ -76,8 +76,5 @@ Find me on
 
 </div>
 
-<div align="right">
-    
-![Profile Views](https://komarev.com/ghpvc/?username=ankushKun&style=flat&color=1C1C1C)
 
 </div>
