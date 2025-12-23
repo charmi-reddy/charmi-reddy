@@ -24,12 +24,10 @@ I build consumer apps, developer tools, web3 infra, and occasionally tinker with
 
 Find me on
 
-[![X](https://img.shields.io/badge/Twitter-white?style=flat&logo=x&logoColor=black)](https://x.com/ankushKun_) 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@ankushKun) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankushKun) 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/users/666578281142812673) 
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://reddit.com/u/TECHIE6023) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ankushKun_)
+[![X](https://img.shields.io/badge/Twitter-white?style=flat&logo=x&logoColor=black)](https://x.com/PCharmiReddy) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charmi-reddy-p-b2aaa2294/) 
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/users/1026783722923634700) 
+
 
 </div>
 
