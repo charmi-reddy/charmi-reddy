@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I'm [Charmi Reddy](https://x.com/PCharmiReddy), an aspiring AIML Engineer [![Portfolio](https://img.shields.io/badge/View_Portfolio-1C1C1C?style=flat&logo=codementor&logoColor=white)](charmireddy.xyz)(Under Construction)
+I'm [Charmi Reddy](https://x.com/PCharmiReddy), an aspiring AIML Engineer
+Portfolio charmireddy.xyz (Under Construction)
 
 I love turning ideas into products.  
 I build consumer apps, developer tools, web3 infra, and occasionally tinker with hardware projects.
