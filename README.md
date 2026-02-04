@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - I'm [Charmi Reddy](https://x.com/PCharmiReddy), an aspiring AIML Engineer
-- Portfolio [charmireddy.xyz](https://charmireddy.xyz) (Under Construction)
+- Portfolio [charmireddy.xyz](https://charmireddy.xyz) 
 
 I love turning ideas into products.  
 I build consumer apps, developer tools, web3 infra, and occasionally tinker with hardware projects.
