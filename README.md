@@ -6,8 +6,6 @@
 I love turning ideas into products.  
 I build consumer apps, developer tools, web3 infra, and occasionally tinker with hardware projects.
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Developer Animation"/>
-
 
 <div align="center">
 
